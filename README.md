@@ -1,12 +1,18 @@
-(COlocar em inglês)
-Olá! Seja muito bem vindo(a)! (EMOJI) (Título)
+# Hello! Welcome to my profile! 
 
-👋 Meu nome é Deivid Araujo Cunha, e estou cursando o segundo ano de Engenharia da computação na FIAP! Neste meu perfil você irá ver minha trajetória através de tutoriais e exercícios realizados por mim!
+#### 👋 My name is Deivid Araujo Cunha, and I'm studying the second year of Computer Engineering at FIAP! In this profile you will see my trajectory through tutorials and exercises performed by me! 
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivid-Araujo&hide=html&layout=compact&theme=buefy" /></td>
+    </tr>   
+</table>
+</center>
 
-Tenho conhecimento básico em JavaScript e no momento estou estudando Python!
+#### 💻 I have basic JavaScript knowledge and I am currently studying Python!
 
-📫 How to reach me: 
+#### 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-araujo-cunha/)](https://www.linkedin.com/in/deivid-araujo-cunha/)
 <!---
 Deivid-Araujo/Deivid-Araujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
