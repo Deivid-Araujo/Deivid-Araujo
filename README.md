@@ -2,6 +2,8 @@
 
 #### 👋 My name is Deivid Araujo Cunha, and I'm studying the second year of Computer Engineering at FIAP! In this profile you will see my trajectory through tutorials and exercises performed by me! 
 
+#### 💻 I have basic JavaScript knowledge and I am currently studying Python!
+
 <center>
 <table>
     <tr>
@@ -9,8 +11,6 @@
     </tr>   
 </table>
 </center>
-
-#### 💻 I have basic JavaScript knowledge and I am currently studying Python!
 
 #### 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-araujo-cunha/)](https://www.linkedin.com/in/deivid-araujo-cunha/)
